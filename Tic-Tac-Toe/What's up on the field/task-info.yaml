@@ -3,6 +3,7 @@ custom_name: What's up on the field?
 files:
 - name: tictactoe/tictactoe.py
   visible: true
+<<<<<<< HEAD
   text: |-
     u = input("Enter cells: ").upper()
     print(f"""---------
@@ -10,6 +11,9 @@ files:
     | {u[3]} {u[4]} {u[5]} |
     | {u[6]} {u[7]} {u[8]} |
     ---------""")
+=======
+  text: '# write your code here'
+>>>>>>> fc6542853867cc649f44d629ac55d3aaeb383d00
   learner_created: false
 - name: tests.py
   visible: false

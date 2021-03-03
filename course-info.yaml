@@ -9,4 +9,8 @@ summary: 'Everybody remembers this paper-and-pencil game from childhood: Tic-Tac
 programming_language: Python
 content:
 - Tic-Tac-Toe
+<<<<<<< HEAD
+=======
+- Problems
+>>>>>>> fc6542853867cc649f44d629ac55d3aaeb383d00
 mode: Study

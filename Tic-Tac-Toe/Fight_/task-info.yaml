@@ -3,6 +3,7 @@ custom_name: Fight!
 files:
 - name: tictactoe/tictactoe.py
   visible: true
+<<<<<<< HEAD
   text: |
     WIN_CASES = [[0, 1, 2], [3, 4, 5], [6, 7, 8], [0, 3, 6], [1, 4, 7], [2, 5, 8], [0, 4, 8], [2, 4, 6]]
 
@@ -60,6 +61,9 @@ files:
     show_board()
     move()
     show_board()
+=======
+  text: '# write your code here'
+>>>>>>> fc6542853867cc649f44d629ac55d3aaeb383d00
   learner_created: false
 - name: tests.py
   visible: false
@@ -389,4 +393,11 @@ files:
   learner_created: false
 feedback_link: https://hyperskill.org/projects/73/stages/403/implement#comment
 status: Solved
+<<<<<<< HEAD
 record: 4
+=======
+feedback:
+  message: Congratulations!
+  time: Wed, 03 Mar 2021 09:17:06 UTC
+record: -1
+>>>>>>> fc6542853867cc649f44d629ac55d3aaeb383d00

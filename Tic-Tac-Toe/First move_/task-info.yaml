@@ -3,6 +3,7 @@ custom_name: First move!
 files:
 - name: tictactoe/tictactoe.py
   visible: true
+<<<<<<< HEAD
   text: |
     def is_winner(player_list):
         for case in WIN_CASES:
@@ -27,6 +28,9 @@ files:
               "O wins" if is_winner(os) else
               "Game not finished" if "_" in u else
               "Draw")
+=======
+  text: '# write your code here'
+>>>>>>> fc6542853867cc649f44d629ac55d3aaeb383d00
   learner_created: false
 - name: tests.py
   visible: false
